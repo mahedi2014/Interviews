@@ -1,4 +1,4 @@
-# Interview questions
+# Collected note on interview questions
 
 I think
 the most important part of the interview
